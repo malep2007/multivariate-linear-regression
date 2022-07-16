@@ -2,7 +2,7 @@
 
 # Import dependencies.
 import numpy as np
-from ..utils.features import prepare_for_training
+from utils.features import prepare_for_training
 
 
 class LinearRegression:
